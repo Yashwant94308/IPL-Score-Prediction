@@ -5,7 +5,7 @@
  -Deploy a Machine Learning Web App created with Flask on Heroku platform.
  
 
-<img src="https://github.com/Yashwant94308/IPL-Score-Prediction/blob/master/readme_resources/ipl-first-innings-score-web-app.gif">
+
 
  
  
