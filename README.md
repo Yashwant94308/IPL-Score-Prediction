@@ -1,4 +1,4 @@
- IPL-First-Inning-Score-Prediction
+ ##IPL-Score-Prediction
  
  This is the end to end project of IPL first inning score perdiction based on previous data.
  
